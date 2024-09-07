@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there.
+## Welcome to my profile. I am Rishik Natra, and Undergraduate Engineering student pursuing a degree in Computer Science.
+
+<div style="background-color: yellow; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 15px yellow;">
+  <h1>Works:</h1>
+  <p>I am currently working on Machine Learning and App Development.</p>
+</div>
+
 
 <!--
 **RishikNatra/RishikNatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
