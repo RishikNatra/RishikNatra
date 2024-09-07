@@ -1,5 +1,8 @@
-## Hello there.
-## Welcome to my profile. I am Rishik Natra, and Undergraduate Engineering student pursuing a degree in Computer Science.
+<div style="background-color: yellow; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 15px yellow;">
+  <h1>Hello there.</h1>
+  <p>I am Rishik Natra, an undergraduate engineering student pursuing a Computer Science degree.</p>
+</div>
+
 
 <div style="background-color: yellow; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 15px yellow;">
   <h1>Works:</h1>
